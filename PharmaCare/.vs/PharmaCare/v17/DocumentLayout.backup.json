@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBC6A57-A76D-47F8-8D9B-3C370C73A1A4}|PharmaCare\\PharmaCare.csproj|c:\\users\\hp\\desktop\\pharmacarefinalproject\\pharmacarefinalproject\\pharmacareprojectcode\\pharmacare\\pharmacare\\migrations\\20250614145153_last.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBC6A57-A76D-47F8-8D9B-3C370C73A1A4}|PharmaCare\\PharmaCare.csproj|solutionrelative:pharmacare\\migrations\\20250614145153_last.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBC6A57-A76D-47F8-8D9B-3C370C73A1A4}|PharmaCare\\PharmaCare.csproj|c:\\users\\hp\\desktop\\pharmacarefinalproject\\pharmacarefinalproject\\pharmacareprojectcode\\pharmacare\\pharmacare\\controllers\\frontendcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBC6A57-A76D-47F8-8D9B-3C370C73A1A4}|PharmaCare\\PharmaCare.csproj|solutionrelative:pharmacare\\controllers\\frontendcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBC6A57-A76D-47F8-8D9B-3C370C73A1A4}|PharmaCare\\PharmaCare.csproj|c:\\users\\hp\\desktop\\pharmacarefinalproject\\pharmacarefinalproject\\pharmacareprojectcode\\pharmacare\\pharmacare\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EBC6A57-A76D-47F8-8D9B-3C370C73A1A4}|PharmaCare\\PharmaCare.csproj|solutionrelative:pharmacare\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBC6A57-A76D-47F8-8D9B-3C370C73A1A4}|PharmaCare\\PharmaCare.csproj|c:\\users\\hp\\desktop\\pharmacarefinalproject\\pharmacarefinalproject\\pharmacareprojectcode\\pharmacare\\pharmacare\\views\\frontend\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EBC6A57-A76D-47F8-8D9B-3C370C73A1A4}|PharmaCare\\PharmaCare.csproj|solutionrelative:pharmacare\\views\\frontend\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBC6A57-A76D-47F8-8D9B-3C370C73A1A4}|PharmaCare\\PharmaCare.csproj|c:\\users\\hp\\desktop\\pharmacarefinalproject\\pharmacarefinalproject\\pharmacareprojectcode\\pharmacare\\pharmacare\\views\\frontend\\shopsingle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EBC6A57-A76D-47F8-8D9B-3C370C73A1A4}|PharmaCare\\PharmaCare.csproj|solutionrelative:pharmacare\\views\\frontend\\shopsingle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBC6A57-A76D-47F8-8D9B-3C370C73A1A4}|PharmaCare\\PharmaCare.csproj|c:\\users\\hp\\desktop\\pharmacarefinalproject\\pharmacarefinalproject\\pharmacareprojectcode\\pharmacare\\pharmacare\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EBC6A57-A76D-47F8-8D9B-3C370C73A1A4}|PharmaCare\\PharmaCare.csproj|solutionrelative:pharmacare\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBC6A57-A76D-47F8-8D9B-3C370C73A1A4}|PharmaCare\\PharmaCare.csproj|c:\\users\\hp\\desktop\\pharmacarefinalproject\\pharmacarefinalproject\\pharmacareprojectcode\\pharmacare\\pharmacare\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EBC6A57-A76D-47F8-8D9B-3C370C73A1A4}|PharmaCare\\PharmaCare.csproj|solutionrelative:pharmacare\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBC6A57-A76D-47F8-8D9B-3C370C73A1A4}|PharmaCare\\PharmaCare.csproj|c:\\users\\hp\\desktop\\pharmacarefinalproject\\pharmacarefinalproject\\pharmacareprojectcode\\pharmacare\\pharmacare\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EBC6A57-A76D-47F8-8D9B-3C370C73A1A4}|PharmaCare\\PharmaCare.csproj|solutionrelative:pharmacare\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBC6A57-A76D-47F8-8D9B-3C370C73A1A4}|PharmaCare\\PharmaCare.csproj|c:\\users\\hp\\desktop\\pharmacarefinalproject\\pharmacarefinalproject\\pharmacareprojectcode\\pharmacare\\pharmacare\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EBC6A57-A76D-47F8-8D9B-3C370C73A1A4}|PharmaCare\\PharmaCare.csproj|solutionrelative:pharmacare\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBC6A57-A76D-47F8-8D9B-3C370C73A1A4}|PharmaCare\\PharmaCare.csproj|c:\\users\\hp\\desktop\\pharmacarefinalproject\\pharmacarefinalproject\\pharmacareprojectcode\\pharmacare\\pharmacare\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EBC6A57-A76D-47F8-8D9B-3C370C73A1A4}|PharmaCare\\PharmaCare.csproj|solutionrelative:pharmacare\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBC6A57-A76D-47F8-8D9B-3C370C73A1A4}|PharmaCare\\PharmaCare.csproj|c:\\users\\hp\\desktop\\pharmacarefinalproject\\pharmacarefinalproject\\pharmacareprojectcode\\pharmacare\\pharmacare\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBC6A57-A76D-47F8-8D9B-3C370C73A1A4}|PharmaCare\\PharmaCare.csproj|solutionrelative:pharmacare\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBC6A57-A76D-47F8-8D9B-3C370C73A1A4}|PharmaCare\\PharmaCare.csproj|c:\\users\\hp\\desktop\\pharmacarefinalproject\\pharmacarefinalproject\\pharmacareprojectcode\\pharmacare\\pharmacare\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBC6A57-A76D-47F8-8D9B-3C370C73A1A4}|PharmaCare\\PharmaCare.csproj|solutionrelative:pharmacare\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBC6A57-A76D-47F8-8D9B-3C370C73A1A4}|PharmaCare\\PharmaCare.csproj|c:\\users\\hp\\desktop\\pharmacarefinalproject\\pharmacarefinalproject\\pharmacareprojectcode\\pharmacare\\pharmacare\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBC6A57-A76D-47F8-8D9B-3C370C73A1A4}|PharmaCare\\PharmaCare.csproj|solutionrelative:pharmacare\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250614145153_last.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\Migrations\\20250614145153_last.cs",
+              "RelativeDocumentMoniker": "PharmaCare\\Migrations\\20250614145153_last.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\Migrations\\20250614145153_last.cs",
+              "RelativeToolTip": "PharmaCare\\Migrations\\20250614145153_last.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T14:51:53.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "PharmaCare\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "PharmaCare\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAEIBAAAAAAAAAAAAAGMBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T14:50:24.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrontEndController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\Controllers\\FrontEndController.cs",
+              "RelativeDocumentMoniker": "PharmaCare\\Controllers\\FrontEndController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\Controllers\\FrontEndController.cs",
+              "RelativeToolTip": "PharmaCare\\Controllers\\FrontEndController.cs",
+              "ViewState": "AgIAAFQCAAAQAAA8y5QkwGQCAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T14:45:47.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shop.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\Views\\FrontEnd\\Shop.cshtml",
+              "RelativeDocumentMoniker": "PharmaCare\\Views\\FrontEnd\\Shop.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\Views\\FrontEnd\\Shop.cshtml",
+              "RelativeToolTip": "PharmaCare\\Views\\FrontEnd\\Shop.cshtml",
+              "ViewState": "AgIAACIBAAAAAAAAAAAwwEMBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T14:45:14.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShopSingle.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\Views\\FrontEnd\\ShopSingle.cshtml",
+              "RelativeDocumentMoniker": "PharmaCare\\Views\\FrontEnd\\ShopSingle.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\Views\\FrontEnd\\ShopSingle.cshtml",
+              "RelativeToolTip": "PharmaCare\\Views\\FrontEnd\\ShopSingle.cshtml",
+              "ViewState": "AgIAADABAAAAAAAAAAAwwFEBAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T14:44:46.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "PharmaCare\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "PharmaCare\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAPgAAAAAAAAAAAAwwBkBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T14:43:54.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PharmaCare\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "PharmaCare\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAO0AAAAAAAAAAAAAAA4BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T14:43:54.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "PharmaCare\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "PharmaCare\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAuwNAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T14:43:36.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "PharmaCare\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "PharmaCare\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAADsBAAAAAAAAAAAwwFwBAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T14:43:34.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\Views\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "PharmaCare\\Views\\Users\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\Views\\Users\\Create.cshtml",
+              "RelativeToolTip": "PharmaCare\\Views\\Users\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T14:43:31.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "PharmaCare\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "PharmaCare\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAMwBAAAAAAAAAAAwwOgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T14:41:08.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\ViewModels\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "PharmaCare\\ViewModels\\ProductViewModel.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\ViewModels\\ProductViewModel.cs",
+              "RelativeToolTip": "PharmaCare\\ViewModels\\ProductViewModel.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAuwIgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T14:40:34.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "PharmaCare\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\Models\\Product.cs",
+              "RelativeToolTip": "PharmaCare\\Models\\Product.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T14:40:10.654Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
